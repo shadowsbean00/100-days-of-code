@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - [Rust journey]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [April 14th, Tuesday, 2020].
 
 ### Day 0: April 14th, 2020
 ##### (delete me or comment me out)
